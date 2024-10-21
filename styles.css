@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+img{
+	height: 300px;
+	width: auto;
+	opacity: 80%;
+}
+p{
+	position: relative;
+	top: 20px;
+	width: auto;
+	font-family: cursive;
+	text-align: center;
+	font-size: 40px;
+}
+.main{
+	text-align: center;
+	border: 2px solid black;
+}
